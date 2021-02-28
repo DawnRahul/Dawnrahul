@@ -1,8 +1,5 @@
 ### Hi there 👋 
 
-<!--
-**DawnRahul/Dawnrahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 **Here is what I'm currently working on**:
 
 - 🔭 I’m currently working on ...Small javascript projects
@@ -13,4 +10,4 @@
 - 📫 How to reach me: ... dawnrahul97@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am a Programmer
--->
+
