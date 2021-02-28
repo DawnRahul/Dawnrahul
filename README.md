@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Javascript,Node.js,Express**
 - 💬 Ask me about **HTML,CSS,Javascript,Bootstrap**
 - 📫 How to reach me **dawnrahul97@gmail.com**
-- ⚡ Fun fact **I'm call myself Programmer**
+- ⚡ Fun fact **I call myself Programmer**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/dawnrahul97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dawnrahul97" height="30" width="40" /></a>
