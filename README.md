@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">Learning web development</h3>
+<h3 align="center">Front-End Web Developer</h3>
 - 🔭 I’m currently working on [Ten_Javascript_Projects](https://dawnrahul.github.io/tenMinute_JS_projects/)
 - 🌱 I’m currently learning **Javascript,Node.js,Express**
 - 💬 Ask me about **HTML,CSS,Javascript,Bootstrap**
