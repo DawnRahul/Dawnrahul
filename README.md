@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">Front-End Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 - 🔭 I’m currently working on [Ten_Javascript_Projects](https://dawnrahul.github.io/tenMinute_JS_projects/)
-- 🌱 I’m currently learning **Javascript,Node.js,Express**
-- 💬 Ask me about **HTML,CSS,Javascript,Bootstrap**
+- 🌱 I’m currently learning **Javascript,Node.js,Express.js**
+- 💬 Ask me about **Javascript**
 - 📫 How to reach me **dawnrahul97@gmail.com**
-- ⚡ Fun fact **I call myself Programmer**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/dawnrahul97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dawnrahul97" height="30" width="40" /></a>
