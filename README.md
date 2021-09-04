@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">Web Developer</h3>
-- 🔭 I’m currently working on [Ten_Javascript_Projects](https://dawnrahul.github.io/tenMinute_JS_projects/)
-- 🌱 I’m currently learning **Javascript,Node.js,Express.js**
+<h3 align="center">Full Stack Web Developer</h3>
+- 🔭 I’m recently worked on [TODO List Web App](https://todolist-dr-2021.herokuapp.com/)
+- 🌱 I’m currently learning **Javascript,Node.js,MongoDB**
 - 💬 Ask me about **Javascript**
 - 📫 How to reach me **dawnrahul97@gmail.com**
 <h3 align="left">Connect with me:</h3>
