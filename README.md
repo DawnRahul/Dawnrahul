@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 - 🔭 I’m recently worked on [TODO List Web App](https://todolist-dr-2021.herokuapp.com/)
 - 🌱 I’m currently learning **Javascript,Node.js,MongoDB**
 - 💬 Ask me about **Javascript**
