@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">Web Developer</h3>
-- 🔭 I’m recently worked on [TODO List Web App](https://todolist-dr-2021.herokuapp.com/)
-- 🌱 I’m currently learning **Javascript,Node.js,MongoDB**
-- 💬 Ask me about **Javascript**
+- 🔭 I recently worked on quizApp using SpringBoot 
+- 🌱 I’m currently learning **SpringBoot**
+- 💬 Ask me about **Java**
 - 📫 How to reach me **dawnrahul97@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +25,5 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+    <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="40" height="40"/> </a>
 </p>
